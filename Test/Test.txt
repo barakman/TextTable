@@ -1,0 +1,35 @@
+NumOfTypes 4
+TypeID 1 NumOfShapes 1
+         ShapeID 1 NumOfColors 1
+                   ColorID 1 NumOfItems 100
+TypeID 2 NumOfShapes 2
+         ShapeID 1 NumOfColors 1
+                   ColorID 1 NumOfItems 200
+         ShapeID 2 NumOfColors 2
+                   ColorID 1 NumOfItems 300
+                   ColorID 2 NumOfItems 400
+TypeID 3 NumOfShapes 3
+         ShapeID 1 NumOfColors 1
+                   ColorID 1 NumOfItems 500
+         ShapeID 2 NumOfColors 2
+                   ColorID 1 NumOfItems 600
+                   ColorID 2 NumOfItems 700
+         ShapeID 3 NumOfColors 3
+                   ColorID 1 NumOfItems 800
+                   ColorID 2 NumOfItems 900
+                   ColorID 3 NumOfItems 1000
+TypeID 4 NumOfShapes 4
+         ShapeID 1 NumOfColors 1
+                   ColorID 1 NumOfItems 1100
+         ShapeID 2 NumOfColors 2
+                   ColorID 1 NumOfItems 1200
+                   ColorID 2 NumOfItems 1300
+         ShapeID 3 NumOfColors 3
+                   ColorID 1 NumOfItems 1400
+                   ColorID 2 NumOfItems 1500
+                   ColorID 3 NumOfItems 1600
+         ShapeID 4 NumOfColors 4
+                   ColorID 1 NumOfItems 1700
+                   ColorID 2 NumOfItems 1800
+                   ColorID 3 NumOfItems 1900
+                   ColorID 4 NumOfItems 2000
